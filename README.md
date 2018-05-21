@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="python-roadmap">Python Roadmap</h1>
 <h3 id="week-1">Week 1:</h3>
 <ul>
