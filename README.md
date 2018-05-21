@@ -1,5 +1,6 @@
 # Python Roadmap
 ### Week 1:
+ - [ ] Codecademy Python
  - [ ] Corey Schafer: Strings
  - [ ] Practice
  - [ ] CodeWars
@@ -12,6 +13,7 @@
  - [ ] Book: Lean Python - Chapter 1-3
 
 ### Week 2:
+- [ ] Codecademy Python
 - [ ] Corey Schafer: Conditionals
 - [ ] Practice
 - [ ] CodeWars
