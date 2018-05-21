@@ -2,7 +2,7 @@
 ### Week 1:
  - [x] Codecademy Python (30 minutes)
  - [x] Corey Schafer: Strings (20 minutes)
- - [ ] Practice
+ - [x] Practice (10 minutes)
  - [x] CodeWars (25 minutes)
  - [ ] Corey Schafer: Ints and floats
  - [ ] Practice
